@@ -18,7 +18,7 @@ This repository contains **all 6 internship-level projects** I completed during 
 - Includes sections: About Me, Skills, Projects, Contact
 ![Portfolio](https://github.com/Dhruvjoshi26/Portfolio/blob/main/Portfolio.png?raw=true)
 
-🚀 **Live Site:** [Click here to view my portfolio](https://dhruvjoshi26.github.io/portfolio/)
+🚀 **Live Site:** [Click here to view my portfolio](https://dhruvjoshi26.github.io/Portfolio/)
 
 
 My Personal Portfolio is right now Hosted live also here through github : "https://dhruvjoshi26.github.io/Portfolio/"
