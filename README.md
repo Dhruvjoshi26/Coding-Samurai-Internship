@@ -18,6 +18,7 @@ This repository contains **all 6 internship-level projects** I completed during 
 - Includes sections: About Me, Skills, Projects, Contact
 ![Portfolio](https://github.com/Dhruvjoshi26/Coding-Samurai-Internship/blob/main/assets/screenshots/Portfolio.png?raw=true)
 
+My Personal Portfolio is right now Hosted live also here through github : "https://dhruvjoshi26.github.io/Portfolio/"
 ---
 ### 2. 🌐 Responsive Landing Page (MrBeast Themed)
 > A landing page concept themed around MrBeast's branding.
