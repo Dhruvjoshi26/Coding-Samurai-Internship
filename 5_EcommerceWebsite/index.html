@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EZbuyCart - Online Store</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🛍️ EZbuyCart</h1>
+    <p>Your trusted online store</p>
+  </header>
+
+  <main class="wrapper">
+    <section class="products" id="products"></section>
+
+    <aside class="cart-section">
+      <h2>🛒 Cart</h2>
+      <div id="cart-items"></div>
+      <div class="cart-footer">
+        <strong>Total: ₹<span id="total">0</span></strong>
+        <button onclick="checkout()">Checkout</button>
+      </div>
+    </aside>
+  </main>
+
+  <footer>
+    <p>© 2025 EZbuyCart | All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
