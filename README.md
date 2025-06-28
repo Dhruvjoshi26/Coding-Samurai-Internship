@@ -16,7 +16,10 @@ This repository contains **all 6 internship-level projects** I completed during 
 - Built using: **HTML, CSS, Embedded Image, Anchor links, Forms**
 - Responsive, clean UI for self-branding
 - Includes sections: About Me, Skills, Projects, Contact
-![Portfolio](https://github.com/Dhruvjoshi26/Coding-Samurai-Internship/blob/main/assets/screenshots/Portfolio.png?raw=true)
+![Portfolio](https://github.com/Dhruvjoshi26/Portfolio/blob/main/Portfolio.png?raw=true)
+
+🚀 **Live Site:** [Click here to view my portfolio](https://dhruvjoshi26.github.io/portfolio/)
+
 
 My Personal Portfolio is right now Hosted live also here through github : "https://dhruvjoshi26.github.io/Portfolio/"
 ---
